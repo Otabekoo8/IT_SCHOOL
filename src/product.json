@@ -1,0 +1,62 @@
+[
+    {
+        "id":"1",
+        "name":"Kompyuter Savodxonligi",
+        "surName":"Word Darslari",
+        "img":"https://compote.slate.com/images/441ce567-efee-47b5-aa76-65b1ce292f00.png?crop=590%2C295%2Cx0%2Cy0&width=1280"
+    },
+    {
+        "id":"2",
+        "name":"Kompyuter Savodxonligi",
+        "surName":"Excel Darslari",
+        "img":"https://compote.slate.com/images/441ce567-efee-47b5-aa76-65b1ce292f00.png?crop=590%2C295%2Cx0%2Cy0&width=1280"
+    },
+    {
+        "id":"3",
+        "name":"Kompyuter Savodxonligi",
+        "surName":"Power Point",
+        "img":"https://compote.slate.com/images/441ce567-efee-47b5-aa76-65b1ce292f00.png?crop=590%2C295%2Cx0%2Cy0&width=1280"
+    },
+    {
+        "id":"4",
+        "name":"Grafik Dizayn",
+        "surName":"Adobe Photoshop",
+        "img":"https://compote.slate.com/images/441ce567-efee-47b5-aa76-65b1ce292f00.png?crop=590%2C295%2Cx0%2Cy0&width=1280"
+    },
+    {
+        "id":"5",
+        "name":"Dasturlash",
+        "surName":"HTML",
+        "img":"https://compote.slate.com/images/441ce567-efee-47b5-aa76-65b1ce292f00.png?crop=590%2C295%2Cx0%2Cy0&width=1280"
+    },
+    {
+        "id":"6",
+        "name":"Dasturlash",
+        "surName":"CSS",
+        "img":"https://compote.slate.com/images/441ce567-efee-47b5-aa76-65b1ce292f00.png?crop=590%2C295%2Cx0%2Cy0&width=1280"
+    },
+    {
+        "id":"7",
+        "name":"Dasturlash",
+        "surName":"SASS",
+        "img":"https://compote.slate.com/images/441ce567-efee-47b5-aa76-65b1ce292f00.png?crop=590%2C295%2Cx0%2Cy0&width=1280"
+    },
+    {
+        "id":"8",
+        "name":"Dasturlash",
+        "surName":"Python",
+        "img":"https://compote.slate.com/images/441ce567-efee-47b5-aa76-65b1ce292f00.png?crop=590%2C295%2Cx0%2Cy0&width=1280"
+    },
+    {
+        "id":"9",
+        "name":"Dasturlash",
+        "surName":"Kotlin",
+        "img":"https://compote.slate.com/images/441ce567-efee-47b5-aa76-65b1ce292f00.png?crop=590%2C295%2Cx0%2Cy0&width=1280"
+    },
+    {
+        "id":"10",
+        "name":"Dasturlash",
+        "surName":"React",
+        "img":"https://compote.slate.com/images/441ce567-efee-47b5-aa76-65b1ce292f00.png?crop=590%2C295%2Cx0%2Cy0&width=1280"
+    }
+]
